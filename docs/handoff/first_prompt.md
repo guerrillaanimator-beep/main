@@ -1,4 +1,4 @@
-# Fable に最初に送る依頼文
+# Claude Code に最初に送る依頼文
 
 Claude Code をプランモード（Shift+Tab で切り替え）にしてから、下の文をそのまま貼り付ける。
 
