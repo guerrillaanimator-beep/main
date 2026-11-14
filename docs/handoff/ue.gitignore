@@ -1,0 +1,23 @@
+# Unreal Engine が自動で作るもの（毎回作り直せるので Git に入れない）
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# プラグインのビルド結果
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.sln
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# OS
+.DS_Store
+Thumbs.db
